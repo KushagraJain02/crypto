@@ -1,1 +1,1 @@
-[DoctorApp Frontend](https://doctorapp-frontend-eight.vercel.app/)
+Live Demo : [Crypto](https://kushagrajain02.github.io/crypto/)
